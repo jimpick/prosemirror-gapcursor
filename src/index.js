@@ -1,6 +1,6 @@
-import {keydownHandler} from "prosemirror-keymap"
-import {TextSelection, NodeSelection, Plugin} from "prosemirror-state"
-import {Decoration, DecorationSet} from "prosemirror-view"
+import {keydownHandler} from "@jimpick/prosemirror-keymap"
+import {TextSelection, NodeSelection, Plugin} from "@jimpick/prosemirror-state"
+import {Decoration, DecorationSet} from "@jimpick/prosemirror-view"
 
 import {GapCursor} from "./gapcursor"
 
