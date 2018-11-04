@@ -1,5 +1,5 @@
-import {Selection} from "prosemirror-state"
-import {Slice} from "prosemirror-model"
+import {Selection} from "@jimpick/prosemirror-state"
+import {Slice} from "@jimpick/prosemirror-model"
 
 // ::- Gap cursor selections are represented using this class. Its
 // `$anchor` and `$head` properties both point at the cursor position.
